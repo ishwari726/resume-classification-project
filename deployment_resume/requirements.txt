@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+nltk
+numpy
+panda
+pdf2docx
+PyPDF2
